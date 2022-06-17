@@ -19,7 +19,7 @@ class ProfileBar extends HTMLElement {
                 text-decoration: none;
             }
             .top-wrapper {
-                background-image: url("https://storage.googleapis.com/be-your-self/topwrapper.jpg");
+                background-image: url("https://storage.googleapis.com/images-project/topwrapper.jpg");
                 background-repeat: no-repeat;
                 -webkit-background-size: cover;
                 background-size: cover;
@@ -73,7 +73,7 @@ class ProfileBar extends HTMLElement {
         </style>
         <div class="top-wrapper">
             <div class="profile">
-                <img class="foto" src="https://storage.googleapis.com/be-your-self/sepri.png">
+                <img class="foto" src="https://storage.googleapis.com/images-project/sepri.png">
                 <h2>Seprianto Ray Roganda Sianipar</h2>
                 <h3>Gateway Operation Agent</h3>
             </div>

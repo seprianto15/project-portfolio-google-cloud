@@ -78,19 +78,19 @@ class SkillBar extends HTMLElement {
                 </div>
                 <div class="content">
                     <div class="icon">
-                        <img src= "https://storage.googleapis.com/be-your-self/logistik.jpg">
+                        <img src= "https://storage.googleapis.com/images-project/logistik.jpg">
                         <h2>Logistic</h2>
                     </div>
                 </div>
                 <div class="content">
                     <div class="icon">
-                        <img src= "https://storage.googleapis.com/be-your-self/javascript.png">
+                        <img src= "https://storage.googleapis.com/images-project/javascript.png">
                         <h2>JavaScript</h2>
                     </div>
                 </div>
                 <div class="content">
                     <div class="icon">
-                        <img src= "https://storage.googleapis.com/be-your-self/microsoft.png">
+                        <img src= "https://storage.googleapis.com/images-project/microsoft.png">
                         <h2>Microsoft Office</h2>
                     </div>
                 </div>
